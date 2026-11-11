@@ -6,3 +6,12 @@ target/
 *.iml
 hs_err_pid*.log
 .DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
+devsphere-storage/
+database/backups/
+*.sql.bak
+*.dump
