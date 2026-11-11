@@ -1,0 +1,8 @@
+target/
+.m2/
+*.class
+.idea/
+.vscode/
+*.iml
+hs_err_pid*.log
+.DS_Store
