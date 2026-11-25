@@ -163,4 +163,4 @@ DevSphere is an academic Java desktop application project associated with AITM, 
 
 Suggested repository description: `A Java Swing developer collaboration platform featuring project management, issue tracking, file management, and contribution analytics.`
 
-Suggested topics: `java`, `java-swing`, `mysql`, `jdbc`, `maven`, `desktop-application`, `project-management`, `developer-tools`
+Suggested topics: `java`, `java-swing`, `mysql`, `jdbc`, `maven`, `desktop-application`, `project-management`, `developer-tools`.
